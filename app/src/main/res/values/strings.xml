@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">hoangduc1234first</string>
+    <string-array name="currency_options">
+        <item>VND</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>YUAN</item>
+    </string-array>
 </resources>
